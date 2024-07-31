@@ -1,5 +1,5 @@
 mongodb:
-  uri: "mongodb+srv://root:<password>@crop0.ewrndcp.mongodb.net/?retryWrites=true&w=majority&appName=crop0"
+  uri: "mongodb+srv://<username>:<password>@crop0.ewrndcp.mongodb.net/?retryWrites=true&w=majority&appName=crop0"
   database: "myDatabase"
   collection: "myCollection"
 
