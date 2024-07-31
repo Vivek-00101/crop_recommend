@@ -3,8 +3,8 @@
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/crop-prediction-app.git
-    cd crop-prediction-app
+    git clone https://github.com/Vivek-00101/crop_recommend.git
+    cd crop_recommend
     ```
 
 2. Create and activate a virtual environment:
@@ -43,3 +43,10 @@ The application can perform two main operations: inserting data into the databas
 To insert a sample document into the database, run:
 ```bash
 python scripts/main.py insert
+
+
+### Running the appplication
+
+To run the application:
+```bash
+python scripts/main.py predict
